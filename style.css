@@ -1,0 +1,91 @@
+  @import url('https://fonts.googleapis.com/css2?family=Markazi+Text:wght@400;500;600&display=swap');
+*{
+    font-family: 'Markazi Text', serif;
+}
+.nav-icon{
+    vertical-align: -webkit-baseline-middle;
+}
+.nav-font{
+    font-size: 16px;
+    color: #4F281C;
+    vertical-align: -webkit-baseline-middle;
+}
+.main-menu{
+    background-color: #a0863f;
+    height: 38px;
+}
+.u-list-menu{
+    padding-right: 130px;
+}
+.list-menu{
+    list-style: none;
+    color: #fff;
+    
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 800,
+  'GRAD' 0,
+  'opsz' 24;
+  font-size: 13px;
+}
+.image-taif{
+    padding-left: 130px;
+    padding-right: 130px;
+}
+.form-user-info{
+    margin-right: 60px;
+}
+.login-text{
+    color: #4F281C;
+    margin-top: 30px;
+}
+.input-text{
+border: 1px solid #a0863f !important;
+height: 25px;
+}
+.input-text::placeholder{
+    text-align: end;
+}
+.line-bottom{
+    margin-top: 20px;
+    border: 1px solid #e2e2e2;
+}
+.forgot-pass{
+    color: #333333;
+    font-size: 0.96rem;
+}
+.btn-primary{
+    background-color:#a0863f !important;
+    border: #a0863f;
+    margin-top: 9px;
+}
+.line-border{
+  inline-size: 80px;
+  border-block-width: 1px;
+  writing-mode: vertical-rl;
+  border-block-end-style: solid;
+  border-color: #a0863f;
+  margin-right: -90px;
+  margin-top: -40px;
+}
+.text-taif{
+    margin-right: -40px;
+    margin-top: -40px;
+}
+.card-footer{
+    background-color: #333333;
+    margin-top: 88px;
+    height: 60px;
+}
+.Allrights{
+    color: #fff;
+}
+.Follow-us{
+    color: #fff;
+    margin-left: 90px;
+}
+.icon-footer{
+    list-style: none;
+}
